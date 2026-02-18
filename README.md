@@ -28,3 +28,10 @@ Algumas questões são interessantes para nortear o desenvolvimento desse trabal
 
 Todo ano os bancos emitem o informe de rendimentos e é aqui que deverá ser identificado e preenchido.
 
+<img width="834" height="511" alt="Image" src="https://github.com/user-attachments/assets/f147c2a2-4f56-4f51-a935-2c6808676eb3" />
+
+# Notas
+
+É importante ter um controle através dos lançamentos de todas as despesas ocorridas no período desejado, para isso uma tabela deverá ser elaborada para entrada dos principais dados.
+
+
