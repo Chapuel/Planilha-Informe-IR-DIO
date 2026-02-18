@@ -34,4 +34,6 @@ Todo ano os bancos emitem o informe de rendimentos e é aqui que deverá ser ide
 
 É importante ter um controle através dos lançamentos de todas as despesas ocorridas no período desejado, para isso uma tabela deverá ser elaborada para entrada dos principais dados.
 
+<img width="814" height="453" alt="Image" src="https://github.com/user-attachments/assets/72f3199a-3157-4157-840f-99a91e122339" />
+
 
