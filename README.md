@@ -14,9 +14,17 @@ Para melhor desempenho na sua confecção é recomendado desenvolver uma base co
 # Desenvolvimento
 Algumas questões são interessantes para nortear o desenvolvimento desse trabalho sendo elas:
 
-Quais dados preciso para identificar o declarante?
-Qual o período(exercício)? (exercício)
-Quais as principais despesas?
-Despesas com patrimônio? (Bens móveis e imóveis)
-Outras despesas.
+* Quais dados preciso para identificar o declarante?
+* Qual o período(exercício)? (exercício)
+* Quais as principais despesas?
+* Despesas com patrimônio? (Bens móveis e imóveis)
+* Outras despesas.
+
+# Aba - Principal ( Entrada - main )
+
+<img width="831" height="475" alt="Image" src="https://github.com/user-attachments/assets/a3051ae0-4766-4637-9c3f-025ef3d7dd0a" />
+
+# Informes de Rendimento Bancário
+
+Todo ano os bancos emitem o informe de rendimentos e é aqui que deverá ser identificado e preenchido.
 
